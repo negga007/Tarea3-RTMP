@@ -1,3 +1,4 @@
+version: "3.3"
 services:
   srs_server:
     image: ossrs/srs:6
